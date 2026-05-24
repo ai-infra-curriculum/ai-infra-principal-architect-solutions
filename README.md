@@ -176,9 +176,9 @@ This track is for:
 
 ## Related Resources
 
-- [Principal Architect Learning Repository](../../learning/ai-infra-principal-architect-learning/)
-- [Senior Architect Track (prerequisite)](../../learning/ai-infra-senior-architect-learning/)
-- [Principal Engineer Track (alternative path)](../../learning/ai-infra-principal-engineer-learning/)
+- [Principal Architect Learning Repository](https://github.com/ai-infra-curriculum/ai-infra-principal-architect-learning)
+- [Senior Architect Track (prerequisite)](https://github.com/ai-infra-curriculum/ai-infra-senior-architect-learning)
+- [Principal Engineer Track (alternative path)](https://github.com/ai-infra-curriculum/ai-infra-principal-engineer-learning)
 
 ## Key Deliverables Examples
 
