@@ -12,6 +12,10 @@ industry working group.
 If you came looking for runnable code, see the architect or senior-
 architect tracks. This one is deliberately upstream of those.
 
+## What's new — 2026-05-27
+
+Module-level `SOLUTION.md` design-rationale docs for all 5 modules (mod-601 org-wide-architecture, mod-602 industry-standards, mod-603 multi-year-investment, mod-604 stakeholder-coalition, mod-605 tech-debt-modernization). Each doc explains what the strategic deliverables (case study, strategy memo, stakeholder map, roadmap, presentation) should actually look like at the principal-architect level, with common failure modes and the *why* behind the rubric. Audit score: 45 → 55.
+
 ## Track Overview
 
 | Track Tier | Level | Repo |
