@@ -119,3 +119,9 @@ track).
 ## License
 
 See [`LICENSE`](LICENSE).
+
+
+---
+
+<!-- aicg:maintained-by -->
+Maintained by [VeriSwarm.ai](https://veriswarm.ai)
