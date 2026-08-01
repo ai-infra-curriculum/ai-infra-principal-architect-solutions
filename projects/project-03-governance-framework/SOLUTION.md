@@ -455,9 +455,9 @@ generic:
 **Meta-governance** — the amend-the-framework process. This is
 the distinction bar. Named triggers (a fitness-function failure
 per §3.6 below, a stakeholder-rotation event per ASM-1, an
-audit finding), a named amendment ARB (default: Enterprise ARB
-+ ETLT), a stage gate at month 12 to formally re-charter or
-absorb amendments.
+audit finding), a named amendment ARB (default: Enterprise
+ARB + ETLT), a stage gate at month 12 to formally re-charter
+or absorb amendments.
 
 ## 3. Validation steps
 
