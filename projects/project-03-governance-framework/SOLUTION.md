@@ -116,10 +116,10 @@ secondary.
   [`../project-02-technology-roadmap/SOLUTION.md`](../project-02-technology-roadmap/SOLUTION.md));
   governance is the nervous system that produces the roadmap and
   learns from its outcomes.
-- Not an M&A playbook. Integration of the two 2024–25
-  acquisitions belongs to `project-04` (see the brief's §11
-  distinction table); this framework leaves *hooks* for that
-  work but does not do it.
+- Not an M&A playbook. Integration of acquisitions belongs to
+  [`../project-04-ma-integration/SOLUTION.md`](../project-04-ma-integration/SOLUTION.md)
+  (see the brief's §11 distinction table); this framework
+  leaves *hooks* for that work but does not do it.
 - Not a Jira project. If the submission substitutes ticket
   templates for a state machine, a decision tree, or a KPI with
   a named intervention rule, the learner has mistaken tooling
