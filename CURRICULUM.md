@@ -3,6 +3,12 @@
 - Paired: ai-infra-principal-architect-learning
 - modules/ + projects/
 
+## Modules
+
+| Module |
+|---|
+| [mod-601-org-wide-architecture](modules/mod-601-org-wide-architecture) |
+
 ## Shipped (autonomous)
 
 Auto-appended by the AICG runner. One row per verified work item. Edit the rest of the document by hand; this section is additive only.
