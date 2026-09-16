@@ -8,6 +8,7 @@
 | Module |
 |---|
 | [mod-601-org-wide-architecture](modules/mod-601-org-wide-architecture) |
+| [mod-602-industry-standards](modules/mod-602-industry-standards) |
 
 ## Shipped (autonomous)
 
