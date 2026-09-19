@@ -10,6 +10,7 @@
 | [mod-601-org-wide-architecture](modules/mod-601-org-wide-architecture) |
 | [mod-602-industry-standards](modules/mod-602-industry-standards) |
 | [mod-603-multi-year-investment](modules/mod-603-multi-year-investment) |
+| [mod-604-stakeholder-coalition](modules/mod-604-stakeholder-coalition) |
 
 ## Shipped (autonomous)
 
