@@ -448,10 +448,10 @@ authoritative sources directly rather than paraphrasing them:
 
 - **Federal Reserve SR 11-7 — Supervisory Guidance on Model Risk
   Management** —
-  <https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm>
+  <http://web.archive.org/web/20260414150921/https://www.federalreserve.gov/supervisionreg/srletters/sr1107.htm>
   — the load-bearing model-risk framework for U.S. banks.
 - **OCC 2011-12 — Sound Practices for Model Risk Management** —
-  <https://www.occ.treas.gov/news-issuances/bulletins/2011/bulletin-2011-12.html>
+  <http://web.archive.org/web/20260303095751/https://www.occ.treas.gov/news-issuances/bulletins/2011/bulletin-2011-12.html>
   — the OCC's parallel guidance, cited alongside SR 11-7 in the
   brief.
 - **EU AI Act (Regulation 2024/1689), especially Articles 6, 9,
