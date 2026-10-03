@@ -19,6 +19,7 @@
 |---|
 | [project-01-enterprise-platform](projects/project-01-enterprise-platform) |
 | [project-02-technology-roadmap](projects/project-02-technology-roadmap) |
+| [project-05-thought-leadership](projects/project-05-thought-leadership) |
 
 ## Shipped (autonomous)
 
