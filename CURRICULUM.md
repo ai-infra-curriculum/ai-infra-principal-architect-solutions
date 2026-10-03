@@ -13,6 +13,12 @@
 | [mod-604-stakeholder-coalition](modules/mod-604-stakeholder-coalition) |
 | [mod-605-tech-debt-modernization](modules/mod-605-tech-debt-modernization) |
 
+## Projects
+
+| Project |
+|---|
+| [project-01-enterprise-platform](projects/project-01-enterprise-platform) |
+
 ## Shipped (autonomous)
 
 Auto-appended by the AICG runner. One row per verified work item. Edit the rest of the document by hand; this section is additive only.
