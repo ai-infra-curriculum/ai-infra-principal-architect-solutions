@@ -11,6 +11,7 @@
 | [mod-602-industry-standards](modules/mod-602-industry-standards) |
 | [mod-603-multi-year-investment](modules/mod-603-multi-year-investment) |
 | [mod-604-stakeholder-coalition](modules/mod-604-stakeholder-coalition) |
+| [mod-605-tech-debt-modernization](modules/mod-605-tech-debt-modernization) |
 
 ## Shipped (autonomous)
 
